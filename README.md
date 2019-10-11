@@ -18,5 +18,3 @@ You’ve been commissioned to build DoveBox: a user interface for our latest flo
 ### Set-up instructions
 
 Clone this repo and run `npm install` in the root directory to install our [JSON-server](https://github.com/typicode/json-server) npm package. (Note: you do not need to install JSON-server separately!) Run `npm start` to initialize the dummy API server. While it's running, you can access the API via `localhost:3000`. Navigating to that page in a browser will show the API spec.
-
-To submit your app email us at: darcy@planet.com with a link to your repo. If you have questions or issues with the test, please let us know.
